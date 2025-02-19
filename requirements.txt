@@ -1,0 +1,14 @@
+python-dotenv
+openai
+langchain
+langchain_community
+pypdf
+yt-dlp
+pydub
+bs4
+langchain_text_splitters
+tiktoken
+langchain-chroma
+lark
+langchain-openai
+scikit-learn
